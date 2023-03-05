@@ -1,0 +1,13 @@
+body{
+    background-size: cover;
+}
+
+.piedepagina{
+    position:fixed;
+    color:black;
+    bottom:0;
+    width:100%;
+    background-color:royalblue;
+    line-height: 2;
+    text-align:center;
+}
